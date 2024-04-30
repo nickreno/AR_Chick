@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="DuckTargetMarker" size="578.000000 612.000000" />
+    <ImageTarget name="Marker_Gator" size="736.000000 552.000000" />
+  </Tracking>
+</QCARConfig>
